@@ -10,6 +10,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: MyConstant.custom2,
       appBar: AppBar(
+        automaticallyImplyLeading: false,
         backgroundColor: const Color.fromARGB(248, 18, 43, 66),
         title: Text(
           'Profile Page',

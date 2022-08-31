@@ -10,6 +10,7 @@ class LoginPage extends StatelessWidget {
     return Scaffold(
       backgroundColor: MyConstant.custom2,
       appBar: AppBar(
+        automaticallyImplyLeading: false,
         // title: const Text('Register Page'),
         backgroundColor: Colors.transparent,
         // centerTitle: true,
