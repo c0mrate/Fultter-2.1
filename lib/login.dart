@@ -25,7 +25,7 @@ class LoginPage extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.fromLTRB(20.0, 20.0, 0.0, 0.0),
             child: Text(
-              'Log in',
+              'Sign in',
               style: MyConstant().h1Styletopic(),
             ),
           ),

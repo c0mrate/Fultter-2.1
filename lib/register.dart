@@ -35,7 +35,7 @@ class RegisterPage extends StatelessWidget {
             child: TextField(
               decoration: InputDecoration(
                 border: UnderlineInputBorder(),
-                hintText: 'Enter your name.',
+                hintText: 'Enter your name',
               ),
             ),
           ),
@@ -44,7 +44,7 @@ class RegisterPage extends StatelessWidget {
             child: TextField(
               decoration: InputDecoration(
                 border: UnderlineInputBorder(),
-                hintText: 'Enter your email.',
+                hintText: 'Enter your email',
               ),
             ),
           ),
@@ -54,7 +54,7 @@ class RegisterPage extends StatelessWidget {
               obscureText: true,
               decoration: InputDecoration(
                 border: UnderlineInputBorder(),
-                hintText: 'Enter your password.',
+                hintText: 'Enter your password',
               ),
             ),
           ),
@@ -63,7 +63,7 @@ class RegisterPage extends StatelessWidget {
             child: TextField(
               decoration: InputDecoration(
                 border: UnderlineInputBorder(),
-                hintText: 'Enter your mobile.',
+                hintText: 'Enter your mobile',
               ),
             ),
           ),

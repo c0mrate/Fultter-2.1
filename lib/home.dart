@@ -71,7 +71,7 @@ class HomeScreen extends StatelessWidget {
                       style: MyConstant().h1Style(),
                     ),
                     Text(
-                      'eed_flutter.gmail.com',
+                      'eed_flutter1.gmail.com',
                       style: MyConstant().h2Style(),
                     ),
                     const SizedBox(
